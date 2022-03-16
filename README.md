@@ -1,4 +1,5 @@
 # Prototype for Tridge Assignment
+Rapid prototyping with D3 and Vanilla on Vite.
 
 ## Installation & Run Vite App
 ```
